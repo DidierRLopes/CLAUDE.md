@@ -13,7 +13,7 @@
 - List unknowns and ask clarifying questions until the request is unambiguous.
 - Wait for my confirmation before proceeding.
 
-## 3. Implementation Planning
+## 3. Implementation planning
 
 ### 3.1 Plan of attack
 
@@ -60,12 +60,12 @@ Deliverables before coding:
 - e. Risks & rollback.
 - f. Clarifying questions if any ambiguity remains.
 
-## 5. Code Style & Comments
+## 5. Code style & comments
 
 - Avoid line-by-line comments.
 - Comment only where logic is non-obvious.
 
-## 6. During Execution
+## 6. During execution
 
 - If blocked or uncertain, stop and present 2–3 options with pros/cons; confirm before proceeding.
 - Stick to the plan and scope; confirm any scope expansion first.
